@@ -1,5 +1,3 @@
-# Power-bi-Dashboards
-
 
 # FB Insights Dashboard
 
